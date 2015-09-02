@@ -16,9 +16,11 @@ nav {
 
 aside {
   background-color: black;
+  display: inline-block;
   float: left;
   width: 160px;
-
+  margin: 0 auto;
+  height: 100%;
 }
 
 article {
@@ -34,7 +36,9 @@ body {
 
 main {
   background-color: purple;
-  height: auto;
+  display: inline-block;
+  height: 100%;
+  margin: 0 auto;
 }
 
 p {
