@@ -1,0 +1,51 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: yellow;
+  padding: 30px;
+}
+
+nav {
+  background-color: green;
+  padding: 12px;
+}
+
+aside {
+  background-color: black;
+  float: left;
+  width: 160px;
+
+}
+
+article {
+  background-color: red;
+}
+
+section {
+  background-color: gray;
+}
+
+body {
+}
+
+main {
+  background-color: purple;
+  height: auto;
+}
+
+p {
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 60px;
+  width: 100%;
+  background-color: blue;
+  padding: 5px;
+}
