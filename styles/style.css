@@ -6,20 +6,23 @@ body {
 
 header {
   background-color: yellow;
+  height: 60px;
+  width: 100%;
   padding: 30px;
+}
+
+header h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 3em;
 }
 
 nav {
   background-color: green;
-  padding: 12px;
-}
-
-aside {
-  background-color: black;
   float: left;
-  width: 170px;
+  width: 375px;
   margin: 0 auto;
   height: 100vmax;
+  padding: 10px;
 }
 
 article {
@@ -52,5 +55,5 @@ footer {
   height: 60px;
   width: 100%;
   background-color: blue;
-  padding: 5px;
+  padding: 10px;
 }
